@@ -4,3 +4,7 @@
     I am nowhere near complete with this but my eyes are crossing and I'll only do more harm than good if I continue
     to stay up to work on this assignment. I will continue to work on it for education sake and hope that I can get some
     partial credit when I can complete a full assignment.
+
+# Git Repo
+
+    Link to repo: https://github.com/DayTiffany-FS/ProductivityApp.git
